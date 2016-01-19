@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Tube</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="signout">Sign Out</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="signed_out">Signed out</string>
+    <string name="title_text">My Tube Sign-In</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="delete">Delete</string>
+</resources>
